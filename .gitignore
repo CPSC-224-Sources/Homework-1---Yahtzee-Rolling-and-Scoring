@@ -1,3 +1,6 @@
+# Java dev file types and locations for git to ignore
+#  These files won't (by default) be included in commits
+
 # Compiled class file
 *.class
 
