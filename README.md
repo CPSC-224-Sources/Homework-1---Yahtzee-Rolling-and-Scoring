@@ -1,4 +1,4 @@
-# Homework-1---Yahtzee-Rolling-and-Scoring
+# Homework 1 - Yahtzee Rolling and Scoring
 
 ## CPSC 224 - Software Development - Gonzaga University
 
@@ -23,7 +23,8 @@ This assignment is intended to have you work through most of the java basics fou
 
 When formatting and turning in your assignment be sure to follow: [Dr. Sprint's Coding Standards](https://docs.google.com/document/d/1yDjQIKWM5LjjaGqnvJpAyqH104YwmtDMJfWU89-onmQ/edit#heading=h.6diexf3ifwty) which include the use of javadoc throughout your code. With each subsequent assignment, the documentation strictness and coding standard will increase.
 
-Your code should be submitted via GitHub Classroom. Your assignment repository should also contain a .pdf document describing the major design and development considerations encountered in implementing your assignment. This document should be written in a narrative style and should include: 
+Your code should be submitted via GitHub Classroom. Your assignment repository should also contain a .pdf document describing the major design and development considerations encountered in implementing your assignment. The document should be named "Homework 1 Summary.pdf" and saved in the summaries directory within this repo.
+This document should be written in a narrative style and should include: 
 
 * A summary of the goal or purpose of the program in your own words. 
 * An overview of the general design you chose for your program.
