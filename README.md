@@ -11,7 +11,7 @@ Produce a Java implemented equivalent of the yahtzee1.cpp C++ program available 
 [https://github.com/worobec/Yahtzee](https://github.com/worobec/Yahtzee)
 
 
-Execution and output of your solutions should be roughly identical to the C++ version, an example of which is shown below.￼
+Execution and output of your solutions should be roughly identical to the C++ version, an example of which is shown below. That doesn’t mean that you should just copy the C++ code verbatim, even though that would work relatively well in Java. You should look at the desired game behaviors and consider an object-oriented approach to building up the same results as the example C++ code. Modeling parts of the game, such as Die, Hand of dice, Scorecards, etc should be strongly considered. Also be aware that your main() method should probably be no longer than 10 lines of code, which is in sharp contrast to the example code given.
 
 ![Yahtzee Rolling and Scoring Demo](YahtzeeDemoHW1/YahtzeeDemoHW1Output.png)
 
